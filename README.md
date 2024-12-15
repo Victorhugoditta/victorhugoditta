@@ -1,4 +1,4 @@
-### Hope! Eu sou Victor Hugo, estudante de programação.
+### 💀Hope! Eu sou Victor Hugo, estudante de programação.
 
 ## Tecnologias que eu uso no meu dia
 
